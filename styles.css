@@ -1,0 +1,47 @@
+@media (min-width: 640px) {
+    body {
+        background-image: url(F1.png);
+    }
+}
+body{
+    
+    background-color: #f28894;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    font-family: 'Romantic', sans-serif;
+    font-family: 'Winter', sans-serif;                             
+}
+.cen{
+    margin: auto;
+    text-align: center;
+    margin-top: 20%;
+    margin-bottom: 20%;
+    width: 75%;
+}
+.cen p{
+    font-size: 500%;
+    animation: color-change 1s infinite;
+    color: #cc2837 ;
+    
+}
+@keyframes color-change {
+    0% { color: #cc2837; }
+    50% { color: #ffffff; }
+    100% { color: #d7295b; }
+}
+.cen2{
+    margin: auto;
+    text-align: center;
+    margin-top: 30%;
+    width: 75%;
+    margin-bottom: 25%;
+}
+.p1{
+    font-size: 500%;
+    color: #ffffff ;
+}
+.p2{
+    font-size: 500%;
+    color: #cc2837 ;
+}
