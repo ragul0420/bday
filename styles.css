@@ -34,8 +34,8 @@ body{
     margin: auto;
     text-align: center;
     margin-top: 30%;
-    width: 75%;
-    margin-bottom: 25%;
+    width: 65%;
+    margin-bottom: 21%;
 }
 .p1{
     font-size: 500%;
@@ -44,4 +44,8 @@ body{
 .p2{
     font-size: 500%;
     color: #cc2837 ;
+}
+.p3{
+    font-size: 500%;
+    color: #f28894 ;
 }

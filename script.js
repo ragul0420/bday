@@ -1,13 +1,13 @@
 
-var i = 1;
+var i = 30;
 setInterval(
 function nam() {
     window.scrollTo(0,i);
-    if (i>1000) {
-        i=0;
+    if (i>1900) {
+        i=30;
     }
     else{
-        i+=600;
+        i+=625;
     }
 }
 , 4000);
