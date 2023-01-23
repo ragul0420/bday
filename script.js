@@ -11,3 +11,6 @@ function nam() {
     }
 }
 , 4000);
+function myFunction() {
+    var x = document.getElementById("myAudio").autoplay;
+  }

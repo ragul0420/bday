@@ -1,16 +1,22 @@
 @media (min-width: 640px) {
     body {
         background-image: url(F1.png);
+        display: block;
+    }
+}
+@media (max-width:640px){
+    .cen , .cen2{
+        display: none;
     }
 }
 body{
-    
     background-color: #f28894;
     background-attachment: fixed;
     background-size: 100% 100%;
     background-repeat: no-repeat;
     font-family: 'Romantic', sans-serif;
-    font-family: 'Winter', sans-serif;                             
+    font-family: 'Winter', sans-serif;        
+                
 }
 .cen{
     margin: auto;
